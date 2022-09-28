@@ -1,0 +1,21 @@
+{
+  "values" : [ {
+    "serviceId" : "init",
+    "timestamp" : "2022-05-23T04:47:40.243962215Z"
+  }, {
+    "serviceId" : "java-base",
+    "timestamp" : "2022-05-23T04:47:45.580343228Z"
+  }, {
+    "serviceId" : "maven-java",
+    "timestamp" : "2022-05-23T04:48:01.867805683Z"
+  }, {
+    "serviceId" : "springboot",
+    "timestamp" : "2022-05-23T04:48:10.753297431Z"
+  }, {
+    "serviceId" : "springboot-tomcat",
+    "timestamp" : "2022-05-23T04:48:23.700618913Z"
+  }, {
+    "serviceId" : "mssql",
+    "timestamp" : "2022-05-23T04:48:41.020847156Z"
+  } ]
+}
